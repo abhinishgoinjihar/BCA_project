@@ -103,3 +103,9 @@ form p a{
     background: #eaeaea;
     color: #555;
 }
+
+
+#name_error{
+  color:red;
+  font-size: 12px;
+}
